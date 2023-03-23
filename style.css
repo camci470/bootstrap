@@ -1,0 +1,24 @@
+body{
+    
+    background-image: url(image/backroundimage.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#list{
+    list-style-position:inside !important;
+}
+
+.color{
+    color: rgb(160, 0, 147);
+}
+
+#price{
+    background-color: rgb(93, 93, 93);
+    border-radius: 8px;
+    color: white;
+    
+    padding: 2px ;
+    text-align: left;
+    
+}
